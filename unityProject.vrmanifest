@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.glovesexperimentv2.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\experiments\\GlovesExperimentV2.3\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "GlovesExperimentV2 [Testing]"
+        }
+      }
+    }
+  ]
+}

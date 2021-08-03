@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<RuntimeConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PathToConfigurationFile>Subject Configurations\676_1_2.xml</PathToConfigurationFile>
+  <PathToSubjectDir>Subject Configurations\</PathToSubjectDir>
+</RuntimeConfiguration>
